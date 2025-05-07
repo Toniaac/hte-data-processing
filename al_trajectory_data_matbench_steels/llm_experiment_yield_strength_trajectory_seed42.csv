@@ -1,0 +1,206 @@
+Iteration,Experiment Index,Experiment Parameters,Suggested Parameters,Observed Yield Strength,Stopping Reason,Max Yield Strength in Dataset
+0,57,Initial Selection,N/A,1235.9,Initial selection,2510.3
+1,220,"Fe: 0.68, C: 0.0, Mn: 0.000104, Si: 0.000204, Cr: 0.111, Ni: 0.068, Mo: 0.0327, V: 0.000112, Nb: 6.16e-05, Co: 0.106, Al: 0.000636, Ti: 0.0, N: 0.000408, W: 0.0","Based on the prior observation, I'll suggest a new steel composition that aims to maximize yield strength. The previous sample showed high yield strength (1235.9 MPa) with significant amounts of Cr, Co, W, and Ni. I'll adjust these elements while staying within the specified ranges.
+
+Suggested steel composition:
+- Fe: 0.680000
+- C: 0.020000
+- Mn: 0.028000
+- Si: 0.080000
+- Cr: 0.180000
+- Ni: 0.200000
+- Mo: 0.055000
+- V: 0.045000
+- Nb: 0.015000
+- Co: 0.185000
+- Al: 0.035000
+- Ti: 0.028000
+- N: 0.006000
+- W: 0.028000
+
+This composition maximizes the key strengthening elements while staying within the allowed ranges. I've increased Co, Cr, Ni, and W near their upper limits since these appeared beneficial in the previous sample. I've also increased C, V, Nb, and Ti to promote carbide formation and precipitation hardening, while maintaining high Mo and Al content for additional strengthening mechanisms.",1373.9,Continuing,2510.3
+2,201,"Fe: 0.68, C: 0.0, Mn: 0.000102, Si: 0.000199, Cr: 0.127, Ni: 0.0976, Mo: 0.00856, V: 0.00011, Nb: 6.01e-05, Co: 0.0709, Al: 0.00891, Ti: 0.00654, N: 0.0, W: 0.0","Based on the previous experimental reports, I notice that steels with high chromium, cobalt, nickel, and molybdenum content tend to exhibit high yield strengths. The second sample with virtually no carbon but higher alloying elements showed a higher yield strength than the first sample.
+
+For the next composition to test, I suggest:
+
+Fe: 0.680000
+C: 0.000100
+Mn: 0.005000
+Si: 0.010000
+Cr: 0.180000
+Ni: 0.080000
+Mo: 0.040000
+V: 0.030000
+Nb: 0.010000
+Co: 0.150000
+Al: 0.010000
+Ti: 0.020000
+N: 0.004900
+W: 0.010000
+
+This composition maximizes chromium content while maintaining high levels of cobalt, nickel, and molybdenum. I've included moderate amounts of V, Nb, Ti, and W to promote precipitation hardening and grain refinement. The carbon content is kept very low, following the trend observed in the second sample with higher yield strength.",1586.7,Continuing,2510.3
+3,288,"Fe: 0.678, C: 0.000464, Mn: 0.000102, Si: 0.000199, Cr: 0.0873, Ni: 0.114, Mo: 0.000116, V: 0.00011, Nb: 6e-05, Co: 0.0992, Al: 0.00806, Ti: 0.0129, N: 0.0, W: 0.0","Based on the previous experimental reports, I notice a trend where steels with high chromium, nickel, and cobalt content, along with precipitation hardening elements like titanium and aluminum, show exceptionally high yield strengths. I'll suggest a composition that builds on these observations while staying within the specified ranges.
+
+Suggested steel composition:
+- Fe: 0.680000 (base element)
+- C: 0.000000 (absence of carbon appears beneficial in these high-strength alloys)
+- Mn: 0.005000
+- Si: 0.010000
+- Cr: 0.186000 (maximized - appears to contribute significantly to strength)
+- Ni: 0.203000 (maximized - important for precipitation hardening)
+- Mo: 0.030000 (contributes to solid solution strengthening)
+- V: 0.020000 (for grain refinement)
+- Nb: 0.010000 (for grain refinement)
+- Co: 0.190000 (maximized - critical for high strength)
+- Al: 0.037600 (maximized - important for precipitation hardening)
+- Ti: 0.029500 (maximized - forms strengthening precipitates)
+- N: 0.000000
+- W: 0.000000 (not critical based on previous results)
+
+This composition maximizes the elements that appeared most beneficial in the previous high-strength samples while maintaining balanced proportions within the specified ranges.",1768,Continuing,2510.3
+4,99,"Fe: 0.65, C: 0.000477, Mn: 0.000522, Si: 0.00102, Cr: 0.00011, Ni: 0.176, Mo: 0.0215, V: 0.000113, Nb: 6.17e-05, Co: 0.126, Al: 0.0017, Ti: 0.0225, N: 0.0, W: 0.0","Based on the previous experimental reports, I notice a trend where steels with lower Fe content and higher amounts of Ni, Co, Cr, Ti, and Al tend to have higher yield strengths. The highest yield strength (1768.0 MPa) was achieved with a composition that had relatively high Ni, Co, and Ti content.
+
+For the next composition to test, I suggest:
+
+Fe: 0.650000
+C: 0.000500
+Mn: 0.005000
+Si: 0.008000
+Cr: 0.120000
+Ni: 0.120000
+Mo: 0.020000
+V: 0.015000
+Nb: 0.008000
+Co: 0.120000
+Al: 0.015000
+Ti: 0.025000
+N: 0.002000
+W: 0.015000
+
+This composition:
+1. Reduces Fe content to allow for higher alloying elements
+2. Increases Ni, Co, and Cr content which showed positive correlation with yield strength
+3. Increases Ti content which appears to be a key strengthening element
+4. Maintains a low carbon content consistent with the high-strength samples
+5. Includes moderate amounts of Mo, V, Nb, and W for additional strengthening
+6. All values are within the specified ranges",2411.5,Continuing,2510.3
+5,106,"Fe: 0.657, C: 0.000954, Mn: 0.000522, Si: 0.00102, Cr: 0.00011, Ni: 0.166, Mo: 0.0243, V: 0.00776, Nb: 6.17e-05, Co: 0.12, Al: 0.0034, Ti: 0.0189, N: 0.0, W: 0.0","Based on the previous experimental reports, I notice a trend where steels with high nickel, cobalt, and titanium content, combined with low carbon, tend to produce the highest yield strengths. The most recent sample with 17.6% Ni, 12.6% Co, and 2.25% Ti achieved 2411.5 MPa, which is significantly higher than the others.
+
+For the next composition to test, I suggest:
+
+Fe: 0.650000
+C: 0.000500
+Mn: 0.005000
+Si: 0.010000
+Cr: 0.010000
+Ni: 0.200000
+Mo: 0.025000
+V: 0.015000
+Nb: 0.010000
+Co: 0.190000
+Al: 0.020000
+Ti: 0.029500
+N: 0.000000
+W: 0.025000
+
+This composition maximizes the elements that appear to contribute most to yield strength based on the previous reports:
+- Maximized Ni, Co, and Ti content within the allowed ranges
+- Increased W content to enhance precipitation hardening
+- Maintained very low carbon content
+- Balanced Al and Mo for optimal precipitation strengthening
+- Added small amounts of V and Nb for additional strengthening",2381.6,Continuing,2510.3
+6,273,"Fe: 0.655, C: 0.0, Mn: 0.000522, Si: 0.00102, Cr: 0.00011, Ni: 0.176, Mo: 0.0215, V: 0.00563, Nb: 6.17e-05, Co: 0.117, Al: 0.000425, Ti: 0.0228, N: 0.0, W: 0.0","Based on the previous experimental reports, I notice a pattern where steels with high nickel, cobalt, titanium, and molybdenum content tend to have exceptionally high yield strengths, particularly when carbon content is kept low. The highest yield strengths (>2300 MPa) were achieved with compositions containing approximately 16-18% Ni, 12% Co, 1.9-2.3% Ti, and 2.1-2.4% Mo.
+
+I suggest testing the following composition:
+
+Fe: 0.650000
+C: 0.000500
+Mn: 0.005000
+Si: 0.010000
+Cr: 0.010000
+Ni: 0.180000
+Mo: 0.025000
+V: 0.010000
+Nb: 0.008000
+Co: 0.130000
+Al: 0.003000
+Ti: 0.023000
+N: 0.000500
+W: 0.005000
+
+This composition maximizes the key strengthening elements (Ni, Co, Ti, Mo) while maintaining very low carbon content to focus on precipitation hardening rather than carbide formation. The high nickel and cobalt content should promote the formation of intermetallic precipitates with titanium and molybdenum, which appears to be the dominant strengthening mechanism in the highest-performing samples.",2402.3,Continuing,2510.3
+7,170,"Fe: 0.655, C: 0.00752, Mn: 0.000103, Si: 0.000201, Cr: 0.147, Ni: 9.61e-05, Mo: 0.0276, V: 0.00443, Nb: 6.07e-05, Co: 0.155, Al: 0.000836, Ti: 0.0, N: 0.00161, W: 0.0","Based on the experimental reports, I'll suggest a steel composition that aims to maximize yield strength. The reports show that high-strength steels typically contain significant amounts of Ni, Co, Ti, and Mo with very low carbon content, resembling maraging steels.
+
+Looking at the highest yield strength examples (2411.5 MPa and 2402.3 MPa), I notice they share these characteristics:
+- High Ni content (16-18%)
+- High Co content (11-12.6%)
+- Significant Ti (1.89-2.28%)
+- Significant Mo (2.15-2.43%)
+- Very low carbon
+- Some V content
+
+I suggest testing the following composition:
+
+Fe: 0.650000
+C: 0.000500
+Mn: 0.005000
+Si: 0.001000
+Cr: 0.000500
+Ni: 0.180000
+Mo: 0.025000
+V: 0.008000
+Nb: 0.001000
+Co: 0.130000
+Al: 0.003000
+Ti: 0.025000
+N: 0.000000
+W: 0.002000
+
+This composition maximizes the elements that showed the strongest correlation with high yield strength in the previous experiments, particularly focusing on the Ni-Co-Ti-Mo system that appears most effective for precipitation hardening.",1274.7,Continuing,2510.3
+8,73,"Fe: 0.667, C: 0.000477, Mn: 0.000522, Si: 0.00102, Cr: 0.00011, Ni: 0.171, Mo: 0.0233, V: 0.000113, Nb: 6.17e-05, Co: 0.115, Al: 0.00361, Ti: 0.0184, N: 0.0, W: 0.0","Based on the prior observations, I'll suggest a steel composition that aims to maximize yield strength. The data shows that high-strength steels typically contain significant amounts of nickel, cobalt, titanium, and molybdenum, with relatively low carbon content.
+
+Looking at the highest yield strength examples (2411.5 MPa, 2402.3 MPa, and 2381.6 MPa), they share these characteristics:
+- High nickel content (16-18%)
+- High cobalt content (11-12.6%)
+- Significant titanium (1.89-2.28%)
+- Moderate molybdenum (2.15-2.43%)
+- Very low carbon
+
+Here's my suggested composition:
+
+Fe: 0.650000
+C: 0.000500
+Mn: 0.000500
+Si: 0.001000
+Cr: 0.010000
+Ni: 0.180000
+Mo: 0.025000
+V: 0.020000
+Nb: 0.010000
+Co: 0.150000
+Al: 0.010000
+Ti: 0.025000
+N: 0.000000
+W: 0.018000
+
+This composition maximizes the elements that appear to contribute most to yield strength while staying within the specified ranges. It features high nickel and cobalt content for precipitation hardening, with titanium, molybdenum, and tungsten to form strengthening precipitates. The carbon content is kept very low to focus on precipitation hardening rather than carbide formation.",2381.6,Continuing,2510.3
+9,306,"Fe: 0.661, C: 0.000475, Mn: 0.00052, Si: 0.00102, Cr: 0.00011, Ni: 0.17, Mo: 0.0247, V: 0.000112, Nb: 6.15e-05, Co: 0.111, Al: 0.0131, Ti: 0.0177, N: 0.0, W: 0.0","Based on the experimental reports, I notice a pattern where steels with high nickel, cobalt, titanium, and molybdenum content consistently show extremely high yield strengths, often exceeding 2000 MPa. The reports consistently underestimated the actual yield strengths, suggesting these elements contribute more to strengthening than conventional models predict.
+
+For my next composition suggestion, I'll focus on maximizing these key elements while staying within the specified ranges:
+
+Fe: 0.650000 (base element)
+Ni: 0.203000 (maximum allowed)
+Co: 0.190000 (maximum allowed)
+Ti: 0.029500 (maximum allowed)
+Mo: 0.057600 (maximum allowed)
+Al: 0.037600 (maximum allowed)
+V: 0.047400 (maximum allowed)
+Nb: 0.015200 (maximum allowed)
+C: 0.010000 (moderate carbon)
+Cr: 0.050000 (moderate chromium)
+Si: 0.005000 (low silicon)
+Mn: 0.003000 (low manganese)
+N: 0.001700 (low nitrogen)
+W: 0.000000 (none)
+
+This composition maximizes the elements that appear to contribute most significantly to yield strength in the previous samples, particularly nickel, cobalt, titanium, and molybdenum, while maintaining a reasonable iron content as the base element.",2510.3,Max yield strength reached,2510.3
