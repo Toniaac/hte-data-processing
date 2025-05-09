@@ -1,0 +1,982 @@
+Iteration,Experiment Index,Experiment Parameters,Suggested Parameters,Observed Conductivity,Max Conductivity in Dataset,Stopping Reason
+0,163,Initial Selection,N/A,220.57,1243.67,Initial selection
+1,162,"P3HT content (%): 39.05, D1 content (%): 41.85, D2 content (%): 5.75, D6 content (%): 4.04, D8 content (%): 9.4, Conductivity (measured) (S/cm): 217.94","Based on the prior observation showing excellent conductivity with a high proportion of long single-walled CNTs (D1), I recommend testing the following composition:
+
+P3HT: 35.00%
+D1: 50.00%
+D2: 5.00%
+D6: 5.00%
+D8: 5.00%
+
+Rationale:
+1. I've increased the D1 content from 41.85% to 50.00% since the long single-walled CNTs appear to be the primary contributor to the conductive network with fewer junction points.
+2. Slightly reduced the P3HT content from 39.05% to 35.00%, maintaining sufficient polymer for good dispersion while allowing for higher CNT content.
+3. Kept moderate amounts of D2, D6, and D8 to maintain the hierarchical conductive network structure, but balanced them more evenly to determine if the specific ratio of secondary CNT types affects performance.
+4. The total CNT content is increased to 65%, which should further enhance the conductive pathways while still maintaining enough polymer for effective film formation.
+
+This composition aims to optimize the conductive network while maintaining good film properties.",217.94,1243.67,Continuing
+2,135,"P3HT content (%): 42.3, D1 content (%): 45.07, D2 content (%): 4.49, D6 content (%): 5.21, D8 content (%): 3.02, Conductivity (measured) (S/cm): 281.68","Based on the prior observations, I'll suggest a new composition to test that aims to further optimize the electrical conductivity of the P3HT/CNT thin films.
+
+The previous samples showed excellent conductivity with high D1 (long single-walled CNT) content and a substantial but not excessive P3HT content. The long SWCNTs appear to be the most critical component for establishing effective conduction pathways.
+
+Suggested next composition:
+- P3HT: 35.00%
+- D1 (long single-walled CNTs): 50.00% 
+- D2 (short single-walled CNTs): 5.00%
+- D6 (double-walled CNTs): 3.00%
+- D8 (multi-walled CNTs): 7.00%
+
+Rationale:
+1. Increased D1 content (from ~42% to 50%) to further enhance the primary conductive network formed by long SWCNTs
+2. Slightly reduced P3HT content (from ~39% to 35%) to minimize insulating barriers while maintaining sufficient polymer for good dispersion
+3. Maintained presence of other CNT types (D2, D6, D8) in similar proportions to preserve the hierarchical network structure
+4. Total CNT content increased to 65%, which should further improve percolation while staying within workable processing limits
+5. The composition remains within all specified component ranges
+
+This composition builds on the successful previous formulations by strategically increasing the most effective conductive component while maintaining a balanced overall composition.",281.68,1243.67,Continuing
+3,134,"P3HT content (%): 42.02, D1 content (%): 47.62, D2 content (%): 4.59, D6 content (%): 3.34, D8 content (%): 2.38, Conductivity (measured) (S/cm): 278.51","Based on the previous experimental reports, I'll suggest a new composition to test that aims to further optimize the electrical conductivity of the P3HT/CNT thin films.
+
+Looking at the data, I notice several trends:
+1. The highest conductivity (281.68 S/cm) was achieved with 42.3% P3HT and a high proportion of long single-walled CNTs (D1, 45.07%)
+2. Compositions with ~40% P3HT and ~40-45% D1 consistently show good conductivity
+3. The balance between different CNT types appears important for creating an optimal hierarchical conductive network
+
+For the next composition to test, I suggest:
+
+P3HT: 35.00%
+D1: 50.00%
+D2: 5.00%
+D6: 6.00%
+D8: 4.00%
+
+Rationale:
+- Slightly reducing P3HT content (from ~40% to 35%) to increase the overall CNT loading
+- Increasing D1 (long SWCNTs) to 50% to enhance the primary conductive pathways
+- Maintaining moderate levels of D2, D6, and D8 to fill interstitial spaces and create a hierarchical network
+- The composition stays within the specified component ranges
+- This approach builds on the successful previous compositions while exploring if a higher D1 content with slightly lower P3HT can further improve conductivity",278.51,1243.67,Continuing
+4,141,"P3HT content (%): 45.41, D1 content (%): 48.51, D2 content (%): 2.1, D6 content (%): 2.64, D8 content (%): 1.38, Conductivity (measured) (S/cm): 279.69","Based on the previous experimental results, I'll suggest a new composition to test that aims to further optimize the electrical conductivity of the P3HT/CNT thin films.
+
+Looking at the data patterns:
+1. The highest conductivities (281.68 S/cm and 278.51 S/cm) were achieved with P3HT content around 42% and long single-walled CNTs (D1) at 45-48%.
+2. There appears to be a positive correlation between D1 content and conductivity.
+3. Lower amounts of D6 and D8 (multi-walled varieties) seem to correlate with higher conductivity.
+4. A total CNT content of ~58% appears optimal.
+
+My suggested composition:
+- P3HT: 40.00%
+- Long single-walled CNTs (D1): 50.00%
+- Short single-walled CNTs (D2): 5.00%
+- Double-walled CNTs (D6): 3.00%
+- Multi-walled CNTs (D8): 2.00%
+
+This composition:
+- Slightly reduces P3HT to allow for increased D1 content
+- Increases the proportion of long SWCNTs (D1) to potentially enhance the primary conductive pathways
+- Maintains a small amount of D2 to fill gaps between longer tubes
+- Keeps D6 and D8 at low levels to provide structural support without disrupting the SWCNT network
+- Maintains the total CNT content at 60%, which is in the successful range of previous experiments
+
+This composition aims to build on the successful aspects of previous formulations while pushing toward potentially higher conductivity through increased long SWCNT content.",279.69,1243.67,Continuing
+5,144,"P3HT content (%): 45.41, D1 content (%): 48.51, D2 content (%): 2.1, D6 content (%): 2.64, D8 content (%): 1.38, Conductivity (measured) (S/cm): 286.73","Based on the experimental reports, I'll analyze the trends to suggest an optimal composition for maximizing electrical conductivity.
+
+Looking at the data, I observe:
+
+1. The highest conductivity (281.68 S/cm) was achieved with 42.3% P3HT and 45.07% D1 (long SWCNTs).
+2. There's a clear trend showing that increasing the proportion of long SWCNTs (D1) correlates with higher conductivity.
+3. The most successful compositions maintain P3HT content between 39-45%.
+4. The best results have D1 content between 45-49%.
+5. Lower concentrations of D2, D6, and D8 appear beneficial when D1 is high.
+
+For the next composition to test, I suggest:
+
+- P3HT: 43.00%
+- D1 (long SWCNTs): 50.00%
+- D2 (short SWCNTs): 3.00%
+- D6 (double-walled CNTs): 2.50%
+- D8 (multi-walled CNTs): 1.50%
+
+This composition:
+- Maintains the optimal P3HT content range
+- Further increases the D1 content, which shows a positive correlation with conductivity
+- Reduces the minor CNT components to minimize potential interference with the primary D1 network
+- Stays within all specified component ranges
+- Follows the trend of successful compositions while pushing slightly in the direction that appears most promising",286.73,1243.67,Continuing
+6,142,"P3HT content (%): 46.05, D1 content (%): 49.9, D2 content (%): 2.22, D6 content (%): 0.77, D8 content (%): 1.09, Conductivity (measured) (S/cm): 280.38","Based on the experimental reports, I'll suggest a new composition to test for achieving high electrical conductivity in P3HT/CNT thin films.
+
+Looking at the trends in the data:
+1. The highest conductivity (286.73 S/cm) was achieved with 45.41% P3HT and 48.51% D1 (long single-walled CNTs)
+2. There appears to be a positive correlation between D1 content and conductivity
+3. The most successful compositions maintain a nearly 1:1 ratio between P3HT and D1
+4. Small amounts of other CNT types (D2, D6, D8) appear beneficial but in decreasing proportions
+
+For the next composition to test, I suggest:
+
+P3HT: 45.00%
+D1: 50.00%
+D2: 2.00%
+D6: 2.00%
+D8: 1.00%
+
+Rationale:
+- Slightly increases the D1 content (from 48.51% to 50.00%) to further enhance the primary conductive network
+- Maintains the successful ~1:1 ratio between P3HT and D1
+- Keeps small amounts of other CNT types to fill gaps and provide complementary conduction pathways
+- Slightly reduces P3HT (from 45.41% to 45.00%) to accommodate the increased D1 content
+- All components remain within the specified ranges
+
+This composition builds on the successful trends observed in previous experiments while making a modest adjustment to potentially further optimize conductivity.",280.38,1243.67,Continuing
+7,145,"P3HT content (%): 46.05, D1 content (%): 49.9, D2 content (%): 2.22, D6 content (%): 0.77, D8 content (%): 1.09, Conductivity (measured) (S/cm): 291.83","Based on the previous experimental results, I notice a clear trend where compositions with high proportions of long single-walled CNTs (D1) combined with moderate amounts of P3HT show the highest electrical conductivity values. The best performing samples have approximately 45-50% D1 and 42-46% P3HT, with minimal amounts of other CNT types.
+
+For the next composition to test, I recommend:
+
+P3HT: 47.00%
+D1: 51.00%
+D2: 1.00%
+D6: 0.50%
+D8: 0.50%
+
+Rationale:
+1. This composition continues the trend of increasing the D1 content slightly (from ~49.90% to 51.00%) while maintaining a balanced P3HT content (47.00%).
+2. The previous results show that as D1 content increases toward 50%, conductivity improves (with the highest being 286.73 S/cm).
+3. I've further reduced the minor CNT components (D2, D6, D8) to minimize potential disruption of the primary D1 conductive network while maintaining some diversity in CNT types.
+4. The P3HT:CNT ratio remains close to the optimal range observed in previous high-performing samples.
+
+This composition stays within the specified component ranges while building on the observed trends from previous experiments.",291.83,1243.67,Continuing
+8,207,"P3HT content (%): 44.61, D1 content (%): 47.53, D2 content (%): 2.05, D6 content (%): 3.17, D8 content (%): 2.58, Conductivity (measured) (S/cm): 289.72","Based on the experimental reports, I'll suggest a new composition to test that builds on the observed trends in high-conductivity P3HT/CNT films.
+
+The data shows a clear pattern: the highest conductivities (280-292 S/cm) were achieved with compositions containing:
+- P3HT: ~45-46%
+- Long single-walled CNTs (D1): ~48-50%
+- Minimal amounts of other CNT types (D2, D6, D8): ~4-6% combined
+
+I notice that increasing the D1 content while maintaining a balanced P3HT:CNT ratio has consistently improved conductivity. The highest conductivity (291.83 S/cm) was observed with 46.05% P3HT and 49.90% D1.
+
+For the next composition, I suggest:
+
+- P3HT: 45.00%
+- D1: 51.00%
+- D2: 2.00%
+- D6: 1.00%
+- D8: 1.00%
+
+This composition:
+1. Slightly increases D1 content to further enhance the primary conductive network
+2. Maintains the optimal ~45:55 P3HT:CNT ratio
+3. Keeps small amounts of other CNT types to fill gaps in the network
+4. Stays within the specified component ranges
+5. Follows the trend of increasing conductivity with higher D1 content",289.72,1243.67,Continuing
+9,114,"P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 291.41","Based on the experimental data provided, I'll suggest a new composition to test that aims to maximize electrical conductivity in P3HT/CNT thin films.
+
+Looking at the trends in the previous experiments, I observe:
+
+1. The highest conductivity (291.83 S/cm) was achieved with a composition of 46.05% P3HT, 49.90% D1, 2.22% D2, 0.77% D6, and 1.09% D8.
+
+2. Long single-walled CNTs (D1) consistently make up the largest portion of CNTs in high-performing films, typically around 47-50%.
+
+3. The P3HT content in the best-performing samples is around 44-46%.
+
+4. The ratio between P3HT and total CNT content appears optimal near 45:55.
+
+5. Small amounts of other CNT types (D2, D6, D8) seem beneficial for filling gaps in the conductive network.
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT: 45.00%
+D1: 51.00%
+D2: 2.00%
+D6: 1.00%
+D8: 1.00%
+
+This composition:
+- Maintains the optimal P3HT content around 45%
+- Slightly increases the D1 content to enhance the primary conductive network
+- Keeps small amounts of D2, D6, and D8 to fill gaps and provide complementary conduction pathways
+- Maintains the successful P3HT:CNT ratio near 45:55
+- Falls within all the specified component ranges
+
+This composition builds on the most successful previous formulations while making targeted adjustments that may further improve conductivity.",291.41,1243.67,Continuing
+10,116,"P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 452.8","Based on the previous experimental results, I notice a clear trend where compositions with high proportions of long single-walled CNTs (D1) and moderate amounts of P3HT show the highest electrical conductivity values. The best performing samples have approximately 45-50% P3HT and 50-55% D1, with minimal amounts of other CNT types.
+
+For my next recommendation, I suggest testing:
+
+P3HT: 45.00%
+D1: 54.00%
+D2: 0.50%
+D6: 0.25%
+D8: 0.25%
+
+Rationale:
+1. The highest conductivity (291.83 S/cm) was observed with 46.05% P3HT and 49.90% D1
+2. Another high-performing sample (291.41 S/cm) had 44.3% P3HT and 54.68% D1
+3. The proposed composition maintains the successful P3HT:D1 ratio while slightly increasing D1 content
+4. I've included minimal amounts of other CNT types (D2, D6, D8) as they may help fill gaps in the conductive network
+5. This composition falls within the specified component ranges and builds on the observed trend that higher D1 content correlates with higher conductivity",452.8,1243.67,Continuing
+11,123,"P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 552.26","Based on the experimental data provided, I'll suggest a composition to maximize electrical conductivity for P3HT/CNT thin films.
+
+Looking at the trends in the data:
+1. The highest conductivity (452.8 S/cm) was achieved with a composition of 44.3% P3HT and 54.68% long single-walled CNTs (D1), with minimal amounts of other CNT types.
+2. Compositions with high D1 content (>45%) consistently show superior conductivity.
+3. The P3HT content in the best-performing samples ranges from 44-46%.
+4. Minimal amounts of other CNT types (D2, D6, D8) appear beneficial.
+
+For the next composition to test, I suggest:
+
+P3HT: 43.0%
+D1: 56.0%
+D2: 0.1%
+D6: 0.4%
+D8: 0.5%
+
+Rationale:
+- Slightly increasing D1 content from 54.68% to 56.0% to further enhance the percolation network
+- Slightly reducing P3HT to 43.0% to accommodate more D1 while maintaining sufficient polymer for good dispersion
+- Keeping minimal amounts of other CNT types to fill potential gaps in the network
+- This composition follows the trend toward higher D1 content while staying within the specified component ranges",552.26,1243.67,Continuing
+12,231,"P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 772.94","Based on the experimental data provided, I'll suggest a composition that aims to maximize electrical conductivity in P3HT/CNT thin films.
+
+The data shows a clear trend: the highest conductivity (552.26 S/cm) was achieved with a composition containing:
+- P3HT: 44.3%
+- Long single-walled CNTs (D1): 54.68%
+- Minimal amounts of other CNT types (D2: 0.04%, D6: 0.29%, D8: 0.78%)
+
+Key observations from the data:
+1. Long single-walled CNTs (D1) appear to be the most critical component for high conductivity
+2. The optimal P3HT content seems to be around 44-46%
+3. Minimizing shorter CNTs and multi-walled varieties appears beneficial
+4. The highest conductivity was achieved with a CNT-dominant composition (>50% total CNTs)
+
+For the next composition to test, I suggest:
+
+P3HT: 42.0%
+D1: 57.0%
+D2: 0.0%
+D6: 0.5%
+D8: 0.5%
+
+Rationale:
+- Slightly reducing P3HT content (from 44.3% to 42.0%) to increase the overall CNT content
+- Further increasing the long SWCNT (D1) content to enhance the percolation network
+- Eliminating short SWCNTs (D2) completely as they appear to introduce junction resistance
+- Maintaining minimal amounts of D6 and D8 (0.5% each) to potentially fill gaps in the network
+- This composition maintains the total component percentages at 100% while staying within the specified ranges",772.94,1243.67,Continuing
+13,229,"P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 731.11","Based on the experimental data provided, I'll suggest a composition that aims to maximize electrical conductivity in P3HT/CNT thin films.
+
+The most striking observation from the data is that the highest conductivity (772.94 S/cm) was achieved with a composition of:
+- P3HT: 44.3%
+- Long single-walled CNTs (D1): 54.68%
+- Short single-walled CNTs (D2): 0.04%
+- Double-walled CNTs (D6): 0.29%
+- Multi-walled CNTs (D8): 0.78%
+
+This composition shows that:
+1. A high concentration of long single-walled CNTs (D1) is critical for conductivity
+2. Minimal amounts of shorter CNTs and multi-walled varieties are preferred
+3. A P3HT:CNT ratio of approximately 44:56 appears optimal
+
+To further explore this promising region of composition space, I suggest testing:
+
+P3HT: 43.0%
+D1: 56.0%
+D2: 0.0%
+D6: 0.5%
+D8: 0.5%
+
+This composition:
+- Slightly increases the D1 content to potentially enhance the percolation network
+- Eliminates D2 entirely as it appears to be the least beneficial component
+- Maintains minimal but balanced amounts of D6 and D8 to provide structural support
+- Keeps the P3HT content near the optimal range for dispersion while maximizing CNT connectivity
+
+This composition falls within the specified component ranges and builds on the successful formulation that demonstrated the highest conductivity in previous experiments.",731.11,1243.67,Continuing
+14,126,"P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 660.0","Based on the experimental data provided, I'll suggest a composition that could potentially yield high electrical conductivity for P3HT/CNT thin films.
+
+The most successful compositions consistently show:
+1. High long single-walled CNT (D1) content (45-55%)
+2. P3HT content around 40-45%
+3. Minimal amounts of other CNT types
+
+The highest conductivity values (552.26 S/cm, 731.11 S/cm, and 772.94 S/cm) were all achieved with the exact same composition:
+- P3HT: 44.3%
+- D1: 54.68%
+- D2: 0.04%
+- D6: 0.29%
+- D8: 0.78%
+
+To explore the compositional space further while building on these successful results, I suggest:
+
+**Recommended composition:**
+- P3HT: 43.0%
+- D1: 56.0%
+- D2: 0.1%
+- D6: 0.4%
+- D8: 0.5%
+
+This composition slightly increases the D1 content while maintaining the overall CNT:P3HT ratio that has proven successful. The slight adjustments to the minor CNT components (D2, D6, D8) allow for exploring whether small variations in these components affect the conductivity while keeping their total contribution minimal.",660.0,1243.67,Continuing
+15,127,"P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 1089.12","Based on the experimental data provided, I'll suggest a new composition to test that aims to further optimize the electrical conductivity of P3HT/CNT thin films.
+
+# Recommended Next Composition
+
+- P3HT: 40.0%
+- Long single-walled CNTs (D1): 58.0%
+- Short single-walled CNTs (D2): 0.0%
+- Double-walled CNTs (D6): 1.0%
+- Multi-walled CNTs (D8): 1.0%
+
+## Rationale for Recommendation
+
+1. **Increased D1 content**: The data shows a clear trend where higher proportions of long single-walled CNTs (D1) correlate with significantly higher conductivity. The highest conductivity values (731.11 S/cm and 772.94 S/cm) were achieved with 54.68% D1 content. I'm recommending a further increase to 58.0% to explore if this trend continues.
+
+2. **Reduced P3HT content**: While P3HT is necessary for film formation and CNT dispersion, reducing it from 44.3% to 40.0% should allow for more direct CNT-CNT contacts in the percolation network, potentially reducing junction resistance.
+
+3. **Elimination of short SWCNTs (D2)**: The highest performing compositions contained minimal D2 content (0.04%), suggesting that shorter nanotubes introduce additional junction points that increase network resistance. I've eliminated D2 entirely to test this hypothesis.
+
+4. **Minimal but balanced multi-walled CNT content**: I've included small amounts of both D6 (1.0%) and D8 (1.0%) to maintain some structural diversity in the CNT network. These multi-walled varieties may help bridge gaps between SWCNT regions and provide mechanical stability without significantly disrupting the primary SWCNT network.
+
+This composition builds on the successful formulations with high D1 content while further optimizing the CNT:polymer ratio to potentially achieve even higher conductivity than the previous best result of 772.94 S/cm.",1089.12,1243.67,Continuing
+16,178,"P3HT content (%): 43.49, D1 content (%): 46.89, D2 content (%): 4.18, D6 content (%): 5.1, D8 content (%): 0.37, Conductivity (measured) (S/cm): 111.8949727","Based on the experimental data provided, I'll suggest a composition that aims to maximize electrical conductivity in P3HT/CNT thin films.
+
+The most striking observation from your data is that the highest conductivity (1089.12 S/cm) was achieved with a composition of:
+- P3HT: 44.3%
+- Long single-walled CNTs (D1): 54.68%
+- Short single-walled CNTs (D2): 0.04%
+- Double-walled CNTs (D6): 0.29%
+- Multi-walled CNTs (D8): 0.78%
+
+This composition shows that:
+1. A high loading of long single-walled CNTs (D1) is critical for high conductivity
+2. Minimal amounts of shorter CNTs and multi-walled varieties are beneficial
+3. A P3HT content of ~44% provides optimal polymer-CNT balance
+
+For the next composition to test, I recommend:
+
+**P3HT: 42.0%
+D1: 57.0%
+D2: 0.1%
+D6: 0.4%
+D8: 0.5%**
+
+Rationale:
+- Slightly increasing D1 content (from 54.68% to 57.0%) to further enhance the percolation network
+- Slightly reducing P3HT (from 44.3% to 42.0%) to accommodate more conductive CNTs while maintaining sufficient polymer for dispersion
+- Maintaining very low levels of D2, D6, and D8 to provide minimal network supplementation without disrupting the primary D1 network
+- The composition remains within your specified component ranges
+- The total adds up to 100%
+
+This composition builds on the successful formula while pushing slightly further toward higher CNT content to potentially achieve even greater conductivity.",111.8949727,1243.67,Continuing
+17,9,"P3HT content (%): 45.0, D1 content (%): 0.0, D2 content (%): 0.0, D6 content (%): 55.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 45.53","Based on the experimental data provided, I'll suggest a composition that has the potential to maximize electrical conductivity in P3HT/CNT thin films.
+
+Looking at the previous results, I notice several important trends:
+1. The highest conductivity (1089.12 S/cm) was achieved with a composition of 44.3% P3HT and 54.68% long single-walled CNTs (D1), with minimal amounts of other CNT types.
+2. Long single-walled CNTs (D1) consistently appear to be the most beneficial component for high conductivity.
+3. The optimal P3HT content appears to be around 43-45%.
+4. Minimizing shorter CNTs (D2) seems beneficial as they may introduce additional junction points.
+
+For my recommendation, I'll suggest a composition that builds on these successful formulations while exploring a slightly different balance:
+
+**Recommended composition:**
+- P3HT: 43.0%
+- Long single-walled CNTs (D1): 56.0%
+- Short single-walled CNTs (D2): 0.0%
+- Double-walled CNTs (D6): 0.5%
+- Multi-walled CNTs (D8): 0.5%
+
+**Rationale:**
+1. I've slightly decreased P3HT content to 43.0% while increasing D1 content to 56.0% to further enhance the percolation network of long SWCNTs.
+2. I've completely eliminated D2 (short SWCNTs) as the data suggests they may introduce additional junction resistance.
+3. I've maintained small amounts of D6 and D8 (0.5% each) which may provide beneficial secondary conduction pathways without disrupting the primary SWCNT network.
+4. This composition maintains the total CNT content above 55% which has proven successful in previous high-conductivity samples.
+
+This composition stays within the specified component ranges while building on the patterns observed in the most successful previous formulations.",45.53,1243.67,Continuing
+18,122,"P3HT content (%): 44.75, D1 content (%): 52.92, D2 content (%): 0.21, D6 content (%): 1.32, D8 content (%): 0.84, Conductivity (measured) (S/cm): 543.75","Based on the experimental data provided, I'll suggest a composition that aims to maximize electrical conductivity in P3HT/CNT thin films.
+
+The most striking observation from your data is that the highest conductivity (1089.12 S/cm) was achieved with a composition of:
+- P3HT: 44.3%
+- Long single-walled CNTs (D1): 54.68%
+- Short single-walled CNTs (D2): 0.04%
+- Double-walled CNTs (D6): 0.29%
+- Multi-walled CNTs (D8): 0.78%
+
+This composition significantly outperformed all others, with several similar compositions also showing high conductivity (731.11 S/cm, 772.94 S/cm, 660.0 S/cm). The key features appear to be:
+1. P3HT content around 44-45%
+2. Very high D1 (long SWCNT) content (~55%)
+3. Minimal amounts of other CNT types
+
+For my recommendation, I'll slightly adjust this optimal composition to explore whether further improvements are possible:
+
+**Recommended composition:**
+- P3HT: 44.0%
+- D1 (long SWCNTs): 55.5%
+- D2 (short SWCNTs): 0.1%
+- D6 (double-walled CNTs): 0.2%
+- D8 (multi-walled CNTs): 0.2%
+
+This composition maintains the critical high D1 content while slightly reducing the other CNT types to further emphasize the dominant role of long SWCNTs in creating efficient conductive pathways with minimal junction resistance. The P3HT content remains in the optimal range to provide good dispersion and film formation while allowing the CNT network to dominate charge transport.",543.75,1243.67,Continuing
+19,34,"P3HT content (%): 44.35, D1 content (%): 0.18, D2 content (%): 54.47, D6 content (%): 0.18, D8 content (%): 0.81, Conductivity (measured) (S/cm): 8.39","Based on the experimental data provided, I'll suggest a composition that has the potential to maximize electrical conductivity in P3HT/CNT thin films.
+
+The data shows a clear trend: compositions with high concentrations of long single-walled CNTs (D1) consistently demonstrate the highest conductivity values, with the highest reported conductivity (1089.12 S/cm) coming from a composition with:
+- P3HT: 44.3%
+- D1 (long SWCNTs): 54.68%
+- D2 (short SWCNTs): 0.04%
+- D6 (DWCNTs): 0.29%
+- D8 (MWCNTs): 0.78%
+
+For my recommendation, I'll suggest a composition that:
+1. Maintains the successful P3HT:CNT ratio near 45:55
+2. Maximizes the D1 content while staying within constraints
+3. Minimizes D2 content (which appears less beneficial)
+4. Includes small amounts of D6 and D8 for network enhancement
+
+Recommended composition:
+- P3HT: 44.0%
+- D1 (long SWCNTs): 54.5%
+- D2 (short SWCNTs): 0.1%
+- D6 (DWCNTs): 0.7%
+- D8 (MWCNTs): 0.7%
+
+This composition maintains the successful ratio between P3HT and CNTs while maximizing the content of long SWCNTs that have proven most effective for high conductivity. The small amounts of D6 and D8 may provide additional conductive pathways and network robustness without disrupting the primary SWCNT network.",8.39,1243.67,Continuing
+20,220,"P3HT content (%): 40.67, D1 content (%): 59.26, D2 content (%): 0.04, D6 content (%): 0.04, D8 content (%): 0.07, Conductivity (measured) (S/cm): 546.79","Based on the previous experimental results, I'll suggest a composition that aims to maximize electrical conductivity in P3HT/CNT thin films.
+
+The data shows a clear trend: compositions with high concentrations of long single-walled CNTs (D1) consistently produce the highest conductivities, with the best result being 1089.12 S/cm for a composition with 44.3% P3HT and 54.68% D1.
+
+I notice that:
+1. Long SWCNTs (D1) are crucial for creating efficient conductive pathways with minimal junction resistance
+2. P3HT content around 44-45% provides optimal polymer-CNT interaction
+3. Minimal amounts of other CNT types may help fill gaps in the network
+4. The highest conductivities occur when D1 dominates the CNT fraction
+
+For my recommendation, I'll suggest:
+
+P3HT: 44.0%
+D1 (long SWCNTs): 55.0% 
+D2 (short SWCNTs): 0.1%
+D6 (DWCNTs): 0.5%
+D8 (MWCNTs): 0.4%
+
+This composition:
+- Maintains the optimal P3HT content (~44%)
+- Slightly increases the D1 content compared to the best performing sample
+- Includes minimal amounts of other CNT types to potentially enhance network connectivity
+- Stays within the specified component ranges
+- Follows the pattern of the highest-performing compositions
+
+This composition should create an extensive percolation network dominated by long SWCNTs while maintaining sufficient polymer content for good dispersion and film formation.",546.79,1243.67,Continuing
+21,112,"P3HT content (%): 40.67, D1 content (%): 59.26, D2 content (%): 0.04, D6 content (%): 0.04, D8 content (%): 0.07, Conductivity (measured) (S/cm): 904.29","Based on the experimental data provided, I'll suggest a composition that has the potential to maximize electrical conductivity in P3HT/CNT thin films.
+
+Looking at the trends in the data, I observe that:
+1. The highest conductivities (>500 S/cm) were achieved with compositions containing approximately:
+   - 40-45% P3HT
+   - 50-60% long single-walled CNTs (D1)
+   - Minimal amounts of other CNT types
+
+2. The composition with the highest reported conductivity (1089.12 S/cm) had:
+   - P3HT: 44.3%
+   - D1: 54.68%
+   - D2: 0.04%
+   - D6: 0.29%
+   - D8: 0.78%
+
+3. Increasing the D1 content while maintaining sufficient P3HT appears beneficial for conductivity.
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT: 40.00%
+D1: 59.00%
+D2: 0.10%
+D6: 0.40%
+D8: 0.50%
+
+This composition:
+- Slightly reduces P3HT content compared to the best-performing sample to increase CNT loading
+- Maximizes the long single-walled CNT (D1) content, which appears to be the most critical component for high conductivity
+- Maintains minimal but non-zero amounts of other CNT types that may help fill gaps in the conductive network
+- Stays within the specified component ranges
+- Follows the trend of successful compositions while pushing toward higher D1 content
+
+This composition should promote formation of an extensive percolation network dominated by long SWCNTs while maintaining sufficient P3HT for good dispersion and film formation.",904.29,1243.67,Continuing
+22,226,"P3HT content (%): 40.67, D1 content (%): 59.26, D2 content (%): 0.04, D6 content (%): 0.04, D8 content (%): 0.07, Conductivity (measured) (S/cm): 658.86","Based on the prior experimental results, I'll suggest a composition that aims to maximize electrical conductivity in P3HT/CNT thin films.
+
+The data shows a clear trend: compositions with high concentrations of long single-walled CNTs (D1) combined with appropriate P3HT content yield the highest conductivities. The most successful formulation contained 40.67% P3HT and 59.26% D1, achieving conductivities of 546.79 S/cm and 904.29 S/cm in repeated experiments.
+
+I recommend testing the following composition:
+- P3HT: 38.00%
+- Long single-walled CNTs (D1): 60.00%
+- Short single-walled CNTs (D2): 0.50%
+- Double-walled CNTs (D6): 0.50%
+- Multi-walled CNTs (D8): 1.00%
+
+Rationale:
+1. Slightly reducing P3HT content (from 40.67% to 38.00%) while increasing D1 content (from 59.26% to 60.00%) should enhance the conductive network while maintaining sufficient polymer for good dispersion and film formation.
+
+2. Adding small amounts of D2, D6, and D8 CNTs may create a hierarchical conductive network where these secondary CNTs fill gaps between the primary D1 network, potentially reducing junction resistance.
+
+3. This composition maintains the successful strategy of having a CNT-dominant formulation (62% total CNTs) while staying within the specified component ranges.
+
+4. The slight increase in D1 concentration should further enhance the percolation network, while the minor additions of other CNT types may improve network connectivity without disrupting the primary D1 pathways.",658.86,1243.67,Continuing
+23,152,"P3HT content (%): 38.9, D1 content (%): 0.03, D2 content (%): 0.21, D6 content (%): 2.95, D8 content (%): 57.95, Conductivity (measured) (S/cm): 44.1","Based on the experimental data provided, I'll suggest a composition to maximize electrical conductivity in P3HT/CNT thin films.
+
+The most successful compositions consistently show high conductivity when:
+1. Long single-walled CNTs (D1) are the dominant CNT type
+2. Total CNT content exceeds P3HT content
+3. Other CNT types (D2, D6, D8) are minimized
+
+The highest conductivity reported (1089.12 S/cm) was achieved with:
+- P3HT: 44.3%
+- D1: 54.68%
+- D2: 0.04%
+- D6: 0.29%
+- D8: 0.78%
+
+To potentially improve on this, I suggest:
+
+**Recommended composition:**
+- P3HT: 40.0%
+- D1: 59.5%
+- D2: 0.0%
+- D6: 0.3%
+- D8: 0.2%
+
+Rationale:
+1. Slightly reducing P3HT content (from ~44% to 40%) while increasing D1 content (from ~55% to 59.5%) should enhance conductivity by creating more direct conductive pathways
+2. Maintaining minimal D6 (0.3%) as it may provide beneficial secondary conduction channels
+3. Reducing D8 content (from 0.78% to 0.2%) as MWCNTs appear less effective than SWCNTs
+4. Eliminating D2 entirely as short SWCNTs introduce additional junction resistance
+
+This composition maintains the successful 60:40 CNT:P3HT ratio while optimizing the CNT distribution to favor the most conductive component (D1).",44.1,1243.67,Continuing
+24,172,"P3HT content (%): 45.8, D1 content (%): 47.25, D2 content (%): 3.24, D6 content (%): 2.7, D8 content (%): 1.1, Conductivity (measured) (S/cm): 542.3","Based on the experimental data provided, I'll suggest a composition that has the potential to maximize electrical conductivity in P3HT/CNT thin films.
+
+The data shows a clear trend: compositions with high concentrations of long single-walled CNTs (D1) combined with moderate amounts of P3HT have consistently demonstrated the highest conductivity values. In particular, the composition with 40.67% P3HT and 59.26% D1 (with minimal amounts of other CNT types) achieved exceptional conductivity values of 546.79, 658.86, and 904.29 S/cm in different trials.
+
+The composition with 44.3% P3HT and 54.68% D1 also showed outstanding performance, with conductivity values reaching as high as 1089.12 S/cm.
+
+For my recommendation, I'll suggest a composition that builds on these successful formulations while staying within the specified component ranges:
+
+**Recommended composition:**
+- P3HT: 42.0%
+- D1 (long single-walled CNTs): 58.0%
+- D2 (short single-walled CNTs): 0.0%
+- D6 (double-walled CNTs): 0.0%
+- D8 (multi-walled CNTs): 0.0%
+
+This composition:
+1. Maintains the high D1 content that has proven critical for achieving high conductivity
+2. Uses a P3HT content that provides sufficient polymer matrix for good dispersion and film formation
+3. Eliminates the minor CNT components (D2, D6, D8) which appear unnecessary when D1 is present in high concentration
+4. Falls within all the specified component ranges
+5. Represents a slight optimization of the most successful compositions observed so far
+
+The data strongly suggests that maximizing the D1 content while maintaining adequate P3HT for processing is the most promising approach for achieving high electrical conductivity in these composite films.",542.3,1243.67,Continuing
+25,26,"P3HT content (%): 40.0, D1 content (%): 60.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 839.28","Based on the prior experimental results, I'll suggest a composition that aims to maximize electrical conductivity in P3HT/CNT thin films.
+
+The data shows a clear trend: compositions with high concentrations of long single-walled CNTs (D1) combined with appropriate P3HT content yield the highest conductivities. The most successful formulations had:
+- P3HT around 40-45%
+- D1 (long SWCNTs) around 55-60%
+- Minimal amounts of other CNT types
+
+The highest conductivity values (>900 S/cm) were achieved with compositions containing approximately 40.67% P3HT and 59.26% D1, with only trace amounts of other CNT types.
+
+My suggested composition is:
+- P3HT: 40.00%
+- D1 (long single-walled CNTs): 60.00%
+- D2 (short single-walled CNTs): 0.00%
+- D6 (double-walled CNTs): 0.00%
+- D8 (multi-walled CNTs): 0.00%
+
+This composition:
+1. Maximizes the content of long SWCNTs (D1) which form efficient percolation networks with minimal junction resistance
+2. Maintains sufficient P3HT to ensure good film formation and CNT dispersion
+3. Eliminates other CNT types which appear to dilute the effectiveness of the D1 network
+4. Stays within the specified component ranges
+5. Follows the trend of the highest-performing samples from previous experiments",839.28,1243.67,Continuing
+26,27,"P3HT content (%): 40.0, D1 content (%): 60.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 852.33","Based on the experimental data provided, I'll suggest a composition to maximize electrical conductivity in P3HT/CNT thin films.
+
+The data shows a clear trend: compositions with high concentrations of long single-walled CNTs (D1) consistently yield the highest conductivities, with the best results reaching over 1000 S/cm. The most successful formulations have:
+1. P3HT content around 40-45%
+2. D1 (long SWCNT) content around 55-60%
+3. Minimal amounts of other CNT types
+
+The composition that achieved 1089.12 S/cm (the highest reported conductivity) contained:
+- P3HT: 44.3%
+- D1: 54.68%
+- D2: 0.04%
+- D6: 0.29%
+- D8: 0.78%
+
+To build on this success while staying within the specified component ranges, I suggest testing:
+
+P3HT: 40.0%
+D1: 60.0%
+D2: 0.0%
+D6: 0.0%
+D8: 0.0%
+
+This composition:
+- Maximizes the content of long SWCNTs (D1) which form efficient percolation networks with minimal junction resistance
+- Maintains sufficient P3HT to ensure good film formation and CNT dispersion
+- Eliminates other CNT types that may introduce additional junction resistance
+- Follows the trend seen in the 839.28 S/cm sample (40% P3HT, 60% D1) but pushes toward even higher D1 content
+- Stays within the specified component ranges",852.33,1243.67,Continuing
+27,25,"P3HT content (%): 40.0, D1 content (%): 60.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 804.11","Based on the experimental data provided, I'll suggest a composition to maximize electrical conductivity in P3HT/CNT thin films.
+
+The most successful compositions consistently show:
+1. High loading of long single-walled CNTs (D1)
+2. Minimal amounts of other CNT types
+3. P3HT content around 40-45%
+
+The highest conductivity values (>800 S/cm) were achieved with compositions containing:
+- P3HT: 40.0-44.3%
+- D1 (long SWCNTs): 54.68-60.0%
+- Minimal D2, D6, and D8 (<1% total)
+
+I recommend testing the following composition:
+- P3HT: 38.0%
+- D1 (long single-walled CNTs): 60.0%
+- D2 (short single-walled CNTs): 0.0%
+- D6 (double-walled CNTs): 1.0%
+- D8 (multi-walled CNTs): 1.0%
+
+This composition:
+1. Slightly reduces P3HT content compared to previous high-performing samples
+2. Maximizes D1 content within the allowed range
+3. Adds small amounts of D6 and D8 which may enhance conductivity by creating additional conduction pathways
+4. Eliminates D2 which appears less beneficial for conductivity
+
+This composition builds on the successful 40:60 P3HT:D1 ratio while exploring whether slightly higher CNT content and the addition of small amounts of multi-walled CNTs can further enhance conductivity.",804.11,1243.67,Continuing
+28,232,"P3HT content (%): 40.0, D1 content (%): 60.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 824.47","Based on the experimental data provided, I'll suggest a composition that aims to maximize electrical conductivity in P3HT/CNT thin films.
+
+The most successful compositions consistently show:
+1. High loading of long single-walled CNTs (D1) around 55-60%
+2. P3HT content around 40-45%
+3. Minimal amounts of other CNT types
+
+The highest conductivity values (>800 S/cm) were achieved with compositions containing approximately 60% D1 and 40% P3HT, with minimal or no other CNT types. The composition with 40% P3HT and 60% D1 yielded conductivities of 839.28 S/cm, 852.33 S/cm, and 804.11 S/cm.
+
+Therefore, I suggest testing the following composition:
+
+- P3HT: 38.0%
+- D1 (long single-walled CNTs): 60.0%
+- D2 (short single-walled CNTs): 0.0%
+- D6 (double-walled CNTs): 1.0%
+- D8 (multi-walled CNTs): 1.0%
+
+This composition:
+1. Slightly reduces P3HT content to 38% (within range limits)
+2. Maintains the high D1 content at 60% that produced excellent results
+3. Adds minimal amounts of D6 and D8 (1% each) which may create additional conductive pathways while maintaining the dominance of the D1 network
+4. Eliminates D2 which appears less beneficial in high-conductivity formulations
+
+This composition builds on the successful 40:60 P3HT:D1 ratio while exploring whether a slight reduction in P3HT and minimal addition of multi-walled CNTs can further enhance conductivity.",824.47,1243.67,Continuing
+29,23,"P3HT content (%): 40.0, D1 content (%): 60.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 788.8326479","Based on the experimental data provided, I'll suggest a composition that has the potential to maximize electrical conductivity in P3HT/CNT thin films.
+
+The data shows a clear trend: compositions with high concentrations of long single-walled CNTs (D1) consistently demonstrate the highest conductivities, with the best performance reaching over 1000 S/cm. The most successful formulations maintain a P3HT content around 40-45% with D1 content around 55-60%, while keeping other CNT types minimal.
+
+My recommended composition is:
+- P3HT: 40.0%
+- D1 (long single-walled CNTs): 60.0%
+- D2 (short single-walled CNTs): 0.0%
+- D6 (double-walled CNTs): 0.0%
+- D8 (multi-walled CNTs): 0.0%
+
+Rationale:
+1. The highest conductivity values were consistently observed in compositions with ~60% D1 content and ~40% P3HT.
+2. The binary P3HT/D1 system without other CNT types showed superior performance (>800 S/cm) compared to more complex mixtures.
+3. Long SWCNTs (D1) create efficient percolation networks with fewer junction points, reducing resistance.
+4. The 40:60 P3HT:D1 ratio provides sufficient polymer for processing while maximizing the conductive network.
+5. The absence of other CNT types creates a more uniform network with consistent electronic properties.
+
+This composition falls within the specified component ranges and builds on the successful formulations from previous experiments.",788.8326479,1243.67,Continuing
+30,124,"P3HT content (%): 53.99, D1 content (%): 44.58, D2 content (%): 0.04, D6 content (%): 0.54, D8 content (%): 0.89, Conductivity (measured) (S/cm): 554.41","Based on the experimental data provided, I'll suggest a composition to maximize electrical conductivity in P3HT/CNT thin films.
+
+The most successful compositions consistently show:
+1. High loading of long single-walled CNTs (D1)
+2. Minimal amounts of other CNT types
+3. P3HT content around 40-45%
+
+The highest conductivity reported was 1089.12 S/cm with the composition:
+- P3HT: 44.3%
+- D1: 54.68%
+- D2: 0.04%
+- D6: 0.29%
+- D8: 0.78%
+
+Several similar compositions (P3HT ~40%, D1 ~60%) also showed excellent conductivity values (804-852 S/cm).
+
+For my recommendation, I'll suggest a composition that slightly increases the D1 content while maintaining the successful P3HT ratio:
+
+**Recommended composition:**
+- P3HT: 40.00%
+- D1: 59.50%
+- D2: 0.00%
+- D6: 0.25%
+- D8: 0.25%
+
+This composition:
+1. Maximizes the long SWCNT (D1) content which consistently correlates with high conductivity
+2. Maintains the optimal P3HT content (~40%) for good dispersion and film formation
+3. Includes minimal amounts of D6 and D8 which may provide supplementary conduction pathways
+4. Eliminates D2 (short SWCNTs) which could introduce additional junction resistance
+5. Stays within the specified component ranges",554.41,1243.67,Continuing
+31,19,"P3HT content (%): 40.0, D1 content (%): 60.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 634.35","Based on the experimental data provided, I'll suggest a composition that aims to maximize electrical conductivity in P3HT/CNT thin films.
+
+The most successful compositions consistently show:
+1. High loading of long single-walled CNTs (D1) around 55-60%
+2. P3HT content around 40-45%
+3. Minimal amounts of other CNT types
+
+The highest conductivity values (>800 S/cm) were observed in compositions with 60% D1 and 40% P3HT with no other CNT types. The composition with 54.68% D1, 44.3% P3HT, and minimal other CNTs (0.04% D2, 0.29% D6, 0.78% D8) achieved an exceptional conductivity of 1089.12 S/cm.
+
+My suggested composition is:
+- P3HT: 40.0%
+- D1 (long single-walled CNTs): 60.0%
+- D2 (short single-walled CNTs): 0.0%
+- D6 (double-walled CNTs): 0.0%
+- D8 (multi-walled CNTs): 0.0%
+
+This composition:
+1. Maximizes the content of long SWCNTs which form efficient percolation networks
+2. Maintains sufficient P3HT to ensure good film formation and CNT dispersion
+3. Eliminates other CNT types that may introduce junction resistance
+4. Falls within the specified component ranges
+5. Follows the pattern of the most successful previous compositions",634.35,1243.67,Continuing
+32,20,"P3HT content (%): 40.0, D1 content (%): 60.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 688.74","Based on the experimental data provided, I'll suggest a composition that has the potential to maximize electrical conductivity in P3HT/CNT thin films.
+
+The data shows a clear trend: compositions with high concentrations of long single-walled CNTs (D1) consistently demonstrate the highest conductivity values, with the best performance reaching over 1000 S/cm. The most successful compositions maintain a P3HT content around 40-45% with D1 content around 55-60%, while keeping other CNT types minimal.
+
+My recommended composition is:
+- P3HT: 40.0%
+- Long single-walled CNTs (D1): 60.0%
+- Short single-walled CNTs (D2): 0.0%
+- Double-walled CNTs (D6): 0.0%
+- Multi-walled CNTs (D8): 0.0%
+
+Rationale:
+1. The highest conductivity values were consistently observed in compositions with ~60% D1 content and ~40% P3HT.
+2. The binary P3HT/D1 system without other CNT types showed superior performance (>800 S/cm) compared to more complex mixtures.
+3. The data suggests that long SWCNTs (D1) create more efficient conductive pathways with fewer junction points than shorter CNTs or mixed CNT systems.
+4. This composition maintains the optimal balance between sufficient polymer content for film formation and high CNT loading for robust conductive network formation.
+
+This composition falls within the specified component ranges and focuses on the two components that have demonstrated the most promising results in previous experiments.",688.74,1243.67,Continuing
+33,18,"P3HT content (%): 60.0, D1 content (%): 40.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 617.92","Based on the experimental data provided, I'll suggest a composition that has the potential to maximize electrical conductivity in P3HT/CNT thin films.
+
+The most successful compositions consistently show:
+1. High loading of long single-walled CNTs (D1)
+2. Minimal amounts of other CNT types
+3. P3HT content around 40-45%
+
+The highest conductivity reported (1089.12 S/cm) was achieved with:
+- P3HT: 44.3%
+- D1: 54.68%
+- D2: 0.04%
+- D6: 0.29%
+- D8: 0.78%
+
+To build on this success while exploring a slightly different composition within the allowed ranges, I suggest:
+
+**Recommended Composition:**
+- P3HT: 40.0%
+- D1: 60.0%
+- D2: 0.0%
+- D6: 0.0%
+- D8: 0.0%
+
+Rationale:
+1. Several experiments with exactly 40% P3HT and 60% D1 showed very high conductivities (839.28, 852.33, 804.11, 824.47, 788.83, 634.35, 688.74 S/cm)
+2. Reducing P3HT to 40% (from 44.3%) allows maximizing the D1 content to 60%
+3. Eliminating other CNT types (D2, D6, D8) creates a more homogeneous network with potentially fewer junction resistances
+4. This composition falls within the specified component ranges while focusing exclusively on the most conductive CNT type (D1)",617.92,1243.67,Continuing
+34,21,"P3HT content (%): 40.0, D1 content (%): 60.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 725.7933279","Based on the experimental data provided, I'll suggest a composition to maximize electrical conductivity in P3HT/CNT thin films.
+
+The highest conductivity values (>700 S/cm) were consistently observed in compositions with:
+1. High loading of long single-walled CNTs (D1 ~60%)
+2. P3HT content around 40%
+3. Minimal amounts of other CNT types
+
+Specifically, the composition with P3HT:40%, D1:60% showed exceptional conductivity values (788-852 S/cm), significantly outperforming most other formulations. The data suggests that long SWCNTs (D1) are the most effective CNT type for creating efficient conductive pathways.
+
+For my recommendation, I'll slightly adjust this optimal composition to explore if further improvements are possible:
+
+Suggested composition:
+- P3HT: 38.0%
+- D1 (long single-walled CNTs): 62.0%
+- D2 (short single-walled CNTs): 0.0%
+- D6 (double-walled CNTs): 0.0%
+- D8 (multi-walled CNTs): 0.0%
+
+This composition:
+1. Slightly increases the D1 content to potentially enhance the conductive network
+2. Maintains P3HT at a level sufficient for good film formation and CNT dispersion
+3. Eliminates other CNT types to maximize the homogeneity of the conductive network
+4. Stays within the specified component ranges",725.7933279,1243.67,Continuing
+35,117,"P3HT content (%): 42.33, D1 content (%): 51.83, D2 content (%): 2.75, D6 content (%): 2.87, D8 content (%): 0.32, Conductivity (measured) (S/cm): 475.46","Based on the experimental data provided, I'll suggest a composition that has the potential to maximize electrical conductivity in P3HT/CNT thin films.
+
+The most striking observation from your data is that compositions with high concentrations of long single-walled CNTs (D1) consistently show the highest conductivities. In particular, the composition with 44.3% P3HT and 54.68% D1 (with minimal amounts of other CNT types) achieved exceptional conductivity values ranging from 452.8 S/cm to 1089.12 S/cm across multiple experiments.
+
+I recommend testing the following composition:
+
+- P3HT: 40.0%
+- Long single-walled CNTs (D1): 60.0%
+- Short single-walled CNTs (D2): 0.0%
+- Double-walled CNTs (D6): 0.0%
+- Multi-walled CNTs (D8): 0.0%
+
+Rationale:
+1. This composition maintains the high D1 content that correlates with superior conductivity while simplifying the formulation.
+2. Previous tests with 40% P3HT and 60% D1 showed excellent conductivity values (634-839 S/cm).
+3. The data suggests that minimizing or eliminating shorter CNTs and multi-walled varieties may reduce junction resistance.
+4. The 40:60 P3HT:D1 ratio appears to balance polymer content (needed for processing and film formation) with maximized conductive network formation.
+
+This composition falls within your specified component ranges and focuses on the two components that appear most critical for high conductivity.",475.46,1243.67,Continuing
+36,16,"P3HT content (%): 40.0, D1 content (%): 60.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 490.06","Based on the experimental data provided, I'll suggest a composition that aims to maximize electrical conductivity in P3HT/CNT thin films.
+
+The most striking observation from your data is that compositions with high concentrations of long single-walled CNTs (D1) consistently show the highest conductivities, with the best performance reaching 1089.12 S/cm in a composition containing:
+- P3HT: 44.3%
+- D1 (long SWCNTs): 54.68%
+- Minimal amounts of other CNT types
+
+Looking at the trend across multiple experiments, I notice that:
+1. Long SWCNTs (D1) are critical for high conductivity
+2. The optimal P3HT content appears to be around 40-45%
+3. Minimizing other CNT types seems beneficial when D1 is high
+
+For my recommendation, I'll suggest a composition that pushes slightly further in the direction that has shown success, while staying within your specified component ranges:
+
+**Recommended composition:**
+- P3HT: 40.0%
+- D1 (long SWCNTs): 60.0%
+- D2 (short SWCNTs): 0.0%
+- D6 (double-walled CNTs): 0.0%
+- D8 (multi-walled CNTs): 0.0%
+
+This composition maximizes the content of long SWCNTs while maintaining sufficient P3HT for film formation and processing. The complete elimination of other CNT types should minimize junction resistance in the conductive network, potentially leading to even higher conductivity than previously observed.",490.06,1243.67,Continuing
+37,110,"P3HT content (%): 40.29, D1 content (%): 58.82, D2 content (%): 0.29, D6 content (%): 0.41, D8 content (%): 0.19, Conductivity (measured) (S/cm): 770.35","Based on the experimental data provided, I'll suggest a composition to maximize electrical conductivity in P3HT/CNT thin films.
+
+The highest conductivity values (>700 S/cm) were consistently observed in compositions with:
+1. High loading of long single-walled CNTs (D1 ~60%)
+2. P3HT content around 40%
+3. Minimal amounts of other CNT types
+
+Specifically, the composition with 40% P3HT and 60% D1 CNTs yielded conductivities of 839.28 S/cm, 852.33 S/cm, 804.11 S/cm, and 824.47 S/cm across multiple experiments.
+
+The data also shows that compositions with very low amounts of other CNT types (D2, D6, D8) performed well when the D1 content remained high. For example, a composition with 40.67% P3HT, 59.26% D1, and trace amounts of other CNTs (totaling 0.15%) achieved 904.29 S/cm.
+
+Therefore, I suggest testing the following composition:
+
+- P3HT: 40.00%
+- D1 (long single-walled CNTs): 59.50%
+- D2 (short single-walled CNTs): 0.10%
+- D6 (double-walled CNTs): 0.20%
+- D8 (multi-walled CNTs): 0.20%
+
+This composition maintains the optimal P3HT:D1 ratio while incorporating minimal amounts of other CNT types that may help fill gaps in the primary D1 network, potentially enhancing overall conductivity beyond what was achieved with the binary P3HT/D1 system.",770.35,1243.67,Continuing
+38,136,"P3HT content (%): 54.14, D1 content (%): 40.57, D2 content (%): 0.04, D6 content (%): 2.68, D8 content (%): 2.61, Conductivity (measured) (S/cm): 293.6","Based on the experimental data provided, I'll suggest a composition that aims to maximize electrical conductivity in the P3HT/CNT thin film.
+
+The most striking observation from previous experiments is that compositions with high concentrations of long single-walled CNTs (D1) consistently produced the highest conductivities. In particular, the composition with 44.3% P3HT and 54.68% D1 CNTs (with minimal amounts of other CNT types) achieved exceptional conductivity values ranging from 291.41 S/cm to 1089.12 S/cm across multiple tests.
+
+Looking at the trend, I notice that:
+1. Long SWCNTs (D1) are the most effective CNT type for high conductivity
+2. P3HT content around 40-45% provides optimal balance
+3. Minimizing other CNT types appears beneficial
+4. The highest conductivity (1089.12 S/cm) was achieved with the 44.3% P3HT, 54.68% D1 composition
+
+For my recommendation, I'll suggest a composition that builds on these findings while staying within the specified component ranges:
+
+**Recommended composition:**
+- P3HT: 44.0%
+- D1 (long single-walled CNTs): 55.0% 
+- D2 (short single-walled CNTs): 0.5%
+- D6 (double-walled CNTs): 0.3%
+- D8 (multi-walled CNTs): 0.2%
+
+This composition maintains the highly successful ratio of P3HT to D1 that produced the highest conductivity while making minimal adjustments to potentially optimize performance further. The small amounts of D2, D6, and D8 may help fill gaps in the primary D1 network and enhance overall connectivity.",293.6,1243.67,Continuing
+39,4,"P3HT content (%): 45.0, D1 content (%): 0.0, D2 content (%): 55.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 16.94","Based on the experimental data provided, I'll suggest a composition that has the potential to maximize electrical conductivity in P3HT/CNT thin films.
+
+The most striking observation from the data is that compositions with high concentrations of long single-walled CNTs (D1) consistently show the highest conductivity values. In particular, the composition with 44.3% P3HT and 54.68% D1 (with minimal amounts of other CNT types) achieved exceptional conductivity values of 452.8, 552.26, 772.94, and 1089.12 S/cm across different trials.
+
+My recommended composition is:
+
+- P3HT: 44.0%
+- Long single-walled CNTs (D1): 55.0%
+- Short single-walled CNTs (D2): 0.0%
+- Double-walled CNTs (D6): 0.5%
+- Multi-walled CNTs (D8): 0.5%
+
+Rationale:
+1. The P3HT content (44.0%) is optimized to provide sufficient polymer matrix for film formation and CNT dispersion while allowing for a high CNT loading.
+2. The high D1 content (55.0%) will create an extensive percolation network with minimal junction resistance.
+3. The small amounts of D6 and D8 (0.5% each) may help bridge gaps in the primary D1 network.
+4. I've eliminated D2 (short SWCNTs) as the data suggests they contribute less to conductivity than the other CNT types.
+
+This composition builds on the successful formulations in the data while staying within the specified component ranges, and should yield high electrical conductivity in the resulting thin films.",16.94,1243.67,Continuing
+40,24,"P3HT content (%): 50.0, D1 content (%): 50.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 800.58","Based on the experimental data provided, I'll suggest a composition that aims to maximize electrical conductivity in P3HT/CNT thin films.
+
+# Recommended Next Composition
+
+- P3HT: 40.0%
+- Long single-walled CNTs (D1): 60.0%
+- Short single-walled CNTs (D2): 0.0%
+- Double-walled CNTs (D6): 0.0%
+- Multi-walled CNTs (D8): 0.0%
+
+## Rationale for Recommendation
+
+The experimental data shows a clear trend that compositions with high concentrations of long single-walled CNTs (D1) consistently produce the highest conductivity values. The most successful compositions share these characteristics:
+
+1. **High D1 content (54-60%)**: The highest conductivity values (>700 S/cm) were consistently achieved with D1 concentrations around 60%. The composition with 60% D1 and 40% P3HT yielded multiple measurements above 800 S/cm, with one reaching 1089.12 S/cm.
+
+2. **Minimal or zero secondary CNT types**: The best performing samples contained either no secondary CNT types or only trace amounts (<1% total). Adding significant amounts of D2, D6, or D8 appears to reduce conductivity.
+
+3. **P3HT content around 40-45%**: This range provides sufficient polymer matrix for film formation and CNT dispersion while maximizing the conductive network formation.
+
+4. **Simplified composition**: The data suggests that a binary system of just P3HT and D1 outperforms more complex mixtures with multiple CNT types.
+
+This recommendation aims to replicate and potentially improve upon the composition that produced the highest recorded conductivity (1089.12 S/cm) by maintaining the optimal 40:60 P3HT:D1 ratio while eliminating all secondary CNT types that might disrupt the formation of an efficient percolation network.",800.58,1243.67,Continuing
+41,111,"P3HT content (%): 46.92, D1 content (%): 50.3, D2 content (%): 1.53, D6 content (%): 0.04, D8 content (%): 1.23, Conductivity (measured) (S/cm): 838.31","Based on the experimental data provided, I'll suggest a composition that aims to maximize electrical conductivity in the P3HT/CNT thin film.
+
+# Recommended Composition for High Conductivity P3HT/CNT Thin Film
+
+## Suggested Composition:
+- P3HT: 40.0%
+- Long single-walled CNTs (D1): 60.0%
+- Short single-walled CNTs (D2): 0.0%
+- Double-walled CNTs (D6): 0.0%
+- Multi-walled CNTs (D8): 0.0%
+
+## Rationale:
+The experimental data shows a clear trend that compositions with high concentrations of long single-walled CNTs (D1) consistently produce the highest conductivity values. In particular, the composition with 40% P3HT and 60% D1 CNTs has repeatedly demonstrated exceptional conductivity values (ranging from ~490 S/cm to over 1000 S/cm in different trials).
+
+Key observations supporting this recommendation:
+1. The highest conductivity values (>800 S/cm) were consistently achieved with compositions containing approximately 40% P3HT and 60% D1 CNTs.
+
+2. Long single-walled CNTs (D1) appear to be significantly more effective than other CNT types for creating efficient conductive networks due to their high aspect ratio and fewer junction points.
+
+3. The absence of other CNT types (D2, D6, D8) in the highest-performing samples suggests that a homogeneous network of long SWCNTs creates more efficient electron transport pathways than mixed CNT systems.
+
+4. The 40:60 P3HT:D1 ratio appears to provide an optimal balance where there is sufficient polymer to ensure good dispersion and film formation, while maximizing the CNT content for extensive percolation network formation.
+
+This composition falls within the specified component ranges and represents the formulation most likely to yield high electrical conductivity based on the experimental data provided.",838.31,1243.67,Continuing
+42,128,"P3HT content (%): 42.33, D1 content (%): 51.83, D2 content (%): 2.75, D6 content (%): 2.87, D8 content (%): 0.32, Conductivity (measured) (S/cm): 1243.67","Based on the experimental data provided, I'll suggest a composition that aims to maximize electrical conductivity in P3HT/CNT thin films.
+
+# Recommended Composition for P3HT/CNT Thin Film
+
+P3HT: 40.0%
+Long single-walled CNTs (D1): 60.0%
+Short single-walled CNTs (D2): 0.0%
+Double-walled CNTs (D6): 0.0%
+Multi-walled CNTs (D8): 0.0%
+
+## Rationale for Recommendation
+
+The experimental data shows a clear pattern where the highest conductivity values (ranging from ~700-1089 S/cm) were consistently achieved with compositions containing:
+1. High loading of long single-walled CNTs (D1 ~55-60%)
+2. Moderate P3HT content (~40-45%)
+3. Minimal or zero content of other CNT types
+
+Specifically, the composition with 44.3% P3HT and 54.68% D1 CNTs (with minimal other CNTs) achieved the highest reported conductivity of 1089.12 S/cm. Several similar compositions with approximately 40% P3HT and 60% D1 CNTs also showed exceptionally high conductivities (800-850 S/cm).
+
+The recommended 40:60 P3HT:D1 ratio optimizes conductivity through:
+- Exceeding the percolation threshold with high D1 content
+- Utilizing long SWCNTs that create efficient conductive pathways with minimal junction resistance
+- Maintaining sufficient P3HT to ensure good dispersion and film formation
+- Avoiding other CNT types that might disrupt the homogeneous D1 network
+
+This composition represents a strategic simplification toward the highest-performing formulations observed in the experimental data, focusing exclusively on the two components that have demonstrated the most significant contribution to electrical conductivity.",1243.67,1243.67,Max conductivity reached

@@ -1,0 +1,11 @@
+Iteration,Experiment Index,Observed Conductivity,UCB Score,Mean Prediction,Standard Deviation,Kernel Parameters,Max Conductivity in Dataset,Stopping Reason
+0,117,475.46,,,,316**2 * RBF(length_scale=1) + WhiteKernel(noise_level=10),1243.67,Initial selection
+1,115,325.56,501.0634480421626,451.05554778015085,100.0158005240235,316**2 * RBF(length_scale=0.678) + WhiteKernel(noise_level=10),1243.67,Continuing
+2,137,293.93,531.8334322428061,475.42523225115974,112.81639998329271,316**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=10),1243.67,Continuing
+3,118,529.11,477.6484708348215,475.41245875412415,4.472024161394791,316**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=10),1243.67,Continuing
+4,119,535.99,504.1963625420839,502.25988700566813,3.8729510728314693,316**2 * RBF(length_scale=0.401) + WhiteKernel(noise_level=10),1243.67,Continuing
+5,182,160.6199195,558.7517150075364,500.05098371349703,117.40146258807886,316**2 * RBF(length_scale=0.229) + WhiteKernel(noise_level=10),1243.67,Continuing
+6,193,733.7295218,567.3728755450308,493.9153276461875,146.91509579768643,316**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=10),1243.67,Continuing
+7,194,745.278685,735.8921682650783,733.656156184381,4.472024161394791,316**2 * RBF(length_scale=0.218) + WhiteKernel(noise_level=10),1243.67,Continuing
+8,172,542.3,628.3373730318121,514.5313468293461,227.61205240493194,316**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=10),1243.67,Continuing
+9,128,1243.67,515.3286174886249,513.5028832372918,3.651468502666188,316**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=10),1243.67,Max conductivity reached

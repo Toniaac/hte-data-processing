@@ -1,3 +1,0 @@
-Iteration,Experiment Index,Observed Elastic Modulus,UCB Score,Mean Prediction,Standard Deviation,Max Modulus in Dataset,Stopping Reason
-0,53,228.31076155204596,,,,296.35081017123304,Initial selection
-1,57,296.35081017123304,285.197192915583,0.5931640285707284,31.622669876334694,296.35081017123304,Max modulus reached

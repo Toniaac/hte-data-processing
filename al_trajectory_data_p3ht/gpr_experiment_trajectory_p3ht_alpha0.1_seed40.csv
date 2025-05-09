@@ -1,0 +1,5 @@
+Iteration,Experiment Index,Observed Conductivity,UCB Score,Mean Prediction,Standard Deviation,Kernel Parameters,Max Conductivity in Dataset,Stopping Reason
+0,117,475.46,,,,316**2 * RBF(length_scale=1) + WhiteKernel(noise_level=10),1243.67,Initial selection
+1,118,529.11,475.8596611702636,475.41245875412415,4.472024161394791,316**2 * RBF(length_scale=1) + WhiteKernel(noise_level=10),1243.67,Continuing
+2,119,535.99,502.6471821129613,502.25988700567814,3.8729510728314693,316**2 * RBF(length_scale=1) + WhiteKernel(noise_level=10),1243.67,Continuing
+3,128,1243.67,513.8680300875149,513.5028832372483,3.651468502666188,316**2 * RBF(length_scale=1) + WhiteKernel(noise_level=10),1243.67,Max conductivity reached

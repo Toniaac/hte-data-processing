@@ -1,0 +1,4 @@
+Iteration,Experiment Index,Observed Elastic Modulus,UCB Score,Mean Prediction,Standard Deviation,Kernel Parameters,Max Modulus in Dataset,Stopping Reason
+0,26,42.736240369816734,,,,42.7**2 * RBF(length_scale=21) + WhiteKernel(noise_level=0.000118),296.35081017123304,Initial selection
+1,53,228.31076155204596,47.200254110006334,40.72988554147941,12.940737137053848,164**2 * RBF(length_scale=4.56) + WhiteKernel(noise_level=10),296.35081017123304,Continuing
+2,57,296.35081017123304,206.6832306001015,158.4287710597507,96.50891908070162,191**2 * RBF(length_scale=4.56) + WhiteKernel(noise_level=5.83e-05),296.35081017123304,Max modulus reached
