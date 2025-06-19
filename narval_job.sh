@@ -13,9 +13,8 @@
 set -eu
 
 # load the environment
-env_name="llm-al-env"
 module load python/3.11.5  scipy-stack
-source $env_name/bin/activate 
+source /home/wangho42/llm-al-env/bin/activate 
 
 
 python narval_job.py
