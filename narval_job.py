@@ -377,7 +377,7 @@ y_df = data_grouped['yield strength']
 for model_name in ["GPR", "RFR", "XGB", "BNN"]:
     for alpha in [0, 0.1, 0.3, 0.5, 0.8, 1, 2, 3, 4, 5]:
         for seed in [42, 41, 40, 39, 38]:
-            run_MLAL(X_df, y_df, model_name="GPR", target_name="Yield Strength", dataset_name="matbench_steels (composition)", alpha=alpha, random_seed=seed)
+            run_MLAL(X_df, y_df, model_name=model_name, target_name="Yield Strength", dataset_name="matbench_steels (composition)", alpha=alpha, random_seed=seed)
 
 
 
@@ -390,4 +390,4 @@ y_df = data_grouped['yield strength']
 for model_name in ["GPR", "RFR", "XGB", "BNN"]:
     for alpha in [0, 0.1, 0.3, 0.5, 0.8, 1, 2, 3, 4, 5]:
         for seed in [42, 41, 40, 39, 38]:
-            run_MLAL(X_df, y_df, model_name="GPR", target_name="Yield Strength", dataset_name="matbench_steels (featurized)", alpha=alpha, random_seed=seed)
+            run_MLAL(X_df, y_df, model_name=model_name, target_name="Yield Strength", dataset_name="matbench_steels (featurized)", alpha=alpha, random_seed=seed)
