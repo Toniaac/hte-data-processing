@@ -1,0 +1,11 @@
+Iteration,Index,Observed Target Value,Predicted Target Value,Uncertainty,Max Yield Strength in Dataset,Stopping Reason
+1,191,2411.5,1235.1285,10.036819,2510.3,Continuing
+2,34,1730.2,2499638.2,648080.7,2510.3,Continuing
+3,265,1680.6,4604.372,407.2636,2510.3,Continuing
+4,169,1250.5,1849.4368,220.92563,2510.3,Continuing
+5,71,2501.1,2525.3086,43.2644,2510.3,Continuing
+6,31,2487.3,2393.2346,31.082117,2510.3,Continuing
+7,118,1603.3,2587.2188,34.849815,2510.3,Continuing
+8,26,1236.6,3759.3228,181.92651,2510.3,Continuing
+9,273,2402.3,2420.666,34.7765,2510.3,Continuing
+10,306,2510.3,2366.0132,28.310308,2510.3,Max Yield Strength reached
