@@ -1,0 +1,5 @@
+Iteration,Index,Observed Target Value,Predicted Target Value,Uncertainty,Max -Instability index in Dataset,Stopping Reason
+1,26,-1267615,-38486.875,362.43353,-23707,Continuing
+2,86,-91681,-3173.984,1917.9132,-23707,Continuing
+3,84,-24723,-38263.664,1954.7771,-23707,Continuing
+4,112,-23707,-25190.12,521.03296,-23707,Max -Instability index reached
