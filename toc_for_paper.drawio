@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.1.5">
   <diagram name="Page-1" id="7DSMkEoMC-NE01Yf9gfc">
-    <mxGraphModel dx="815" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="512" pageHeight="197" math="0" shadow="0">
+    <mxGraphModel dx="563" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="512" pageHeight="197" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,9 +169,6 @@
             <mxPoint x="465" y="-82.16" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GxkU5UI5qD7G4g8lQDoM-75" value="&lt;b&gt;Property Exaction&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Elastic Modulus&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- Pore Fraction&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="380" y="-53" width="130" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="GxkU5UI5qD7G4g8lQDoM-76" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;width=4.672897196261682;endSize=2.332710280373832;endWidth=9.40693510350249;fillColor=#000000;" parent="1" source="GxkU5UI5qD7G4g8lQDoM-32" target="GxkU5UI5qD7G4g8lQDoM-70" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="191" y="-83" as="sourcePoint" />
@@ -189,6 +186,12 @@
         </mxCell>
         <mxCell id="GxkU5UI5qD7G4g8lQDoM-80" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBvdmVyZmxvdz0iaGlkZGVuIiBpZD0iSWNvbnNfQmVha2VyIiB2aWV3Qm94PSIyMC4wNDkwMzQxMTg2NTIzNDQgNCA1NS45Mzk3ODExODg5NjQ4NDQgODgiIHdpZHRoPSI1NS45Mzk3ODExODg5NjQ4NDQiIGhlaWdodD0iODgiPjxjaXJjbGUgcj0iNiIgY3k9IjIyIiBjeD0iNDAiLz48Y2lyY2xlIHI9IjMiIGN5PSI3IiBjeD0iMzciLz48Y2lyY2xlIHI9IjMiIGN5PSIyNSIgY3g9IjU0Ii8+PGNpcmNsZSByPSI0IiBjeT0iMTIiIGN4PSI1NiIvPjxwYXRoIGQ9Ik03NS45IDMyLjVDNzUuNyAzMS42IDc0LjkgMzEgNzQgMzFMMjIgMzFDMjEuMSAzMSAyMC4zIDMxLjYgMjAuMSAzMi41IDE5LjkgMzMuNCAyMC4zIDM0LjMgMjEuMSAzNC43IDIxLjEgMzQuNyAyNC4xIDM2LjQgMjQuMSA0MEwyNC4xIDg2QzI0LjEgODkuMyAyNi44IDkyIDMwLjEgOTJMNjYuMSA5MkM2OS40IDkyIDcyLjEgODkuMyA3Mi4xIDg2TDcyLjEgNDBDNzIuMSAzNi40IDc0LjkgMzQuOCA3NSAzNC44IDc1LjcgMzQuMyA3Ni4yIDMzLjQgNzUuOSAzMi41Wk02MiA4NCA1MCA4NCA1MCA4MCA2MiA4MCA2MiA4NFpNNjIgNzYgNTAgNzYgNTAgNzIgNjIgNzIgNjIgNzZaTTYyIDY4IDUwIDY4IDUwIDY0IDYyIDY0IDYyIDY4Wk02MiA2MCA1MCA2MCA1MCA1NiA2MiA1NiA2MiA2MFpNNjIgNTIgNTAgNTIgNTAgNDggNjIgNDggNjIgNTJaTTY4IDQwIDY4IDQxLjlDNjQuOSA0MC43IDU5LjkgMzkgNTUgMzkgNDkuNiAzOSA0Ni4zIDM5LjkgNDIuOSA0MC44IDM5LjIgNDEuOCAzNS4zIDQyLjggMjggNDNMMjggNDBDMjggMzggMjcuNCAzNi4zIDI2LjcgMzVMNjkuMyAzNUM2OC42IDM2LjMgNjggMzggNjggNDBaIi8+PC9zdmc+;" parent="1" vertex="1">
           <mxGeometry x="55.57" y="-134.86" width="21.76" height="34.18" as="geometry" />
+        </mxCell>
+        <mxCell id="oKkYbwIYP6irmb3DHjhX-2" value="&lt;b style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;&lt;font&gt;Property Extraction&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=11;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="368" y="-60.00000000000001" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oKkYbwIYP6irmb3DHjhX-4" value="- Elastic Modulus &#xa;- Pore Fraction" style="text;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="385.1" y="-40.11" width="104.01" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
