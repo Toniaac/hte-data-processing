@@ -1,0 +1,10 @@
+2025/05/29
+Usan Siriwardana
+
+Encloses the Arduino uno, as well as a breadboard for supporting components
+Manages connections to compression tester as well as N2 blower
+
+N2 Solenoid mounts to outside, as does flow meter
+
+Also make a second enclosure for the compression tester side
+turn the two DB15 connectors into a single 3 wire cable
